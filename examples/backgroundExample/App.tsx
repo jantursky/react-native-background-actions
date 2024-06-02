@@ -20,7 +20,7 @@ import {
 } from 'react-native';
 import { Header, Colors } from 'react-native/Libraries/NewAppScreen';
 
-import BackgroundJob from 'react-native-background-actions';
+import BackgroundJob from 'react-native-background-actions;
 
 const sleep = (time: any) => new Promise<void>((resolve) => setTimeout(() => resolve(), time));
 
